@@ -20,6 +20,5 @@ class EXE03 {
         System.out.println("Your University : "+university);
         System.out.println("Your age : "+age);
         System.out.println("Your height : "+height);
-
     }
 }
